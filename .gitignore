@@ -1,0 +1,4 @@
+# 忽略所有 .env 文件
+.env
+# 但保留 .env.example（模板文件）
+!.env.example
