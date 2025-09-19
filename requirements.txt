@@ -19,5 +19,4 @@ python-dotenv==1.0.0
 aiofiles==23.2.1
 asyncio==3.4.3
 
-beautifulsoup4==4.13.5
 pypandoc==1.15
